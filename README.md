@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehowells
 - 👀 I’m interested in AI/machine learning and video game development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and SQL
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I worked for a video game company one summer!
 
